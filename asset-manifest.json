@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expense-resume/static/css/main.70397511.css",
+    "main.js": "/expense-resume/static/js/main.b13e9ae0.js",
+    "static/media/edit.png": "/expense-resume/static/media/edit.21622d04ce8af31a7190.png",
+    "static/media/trash-bin.png": "/expense-resume/static/media/trash-bin.e2d7a73c365ba8d4c545.png",
+    "index.html": "/expense-resume/index.html",
+    "main.70397511.css.map": "/expense-resume/static/css/main.70397511.css.map",
+    "main.b13e9ae0.js.map": "/expense-resume/static/js/main.b13e9ae0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70397511.css",
+    "static/js/main.b13e9ae0.js"
+  ]
+}
